@@ -1,2 +1,5 @@
 theme:
     page_title: Welcome!
+    navigation:
+        - text: Home
+          url: ./index.html
